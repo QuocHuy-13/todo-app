@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/todo-app",
+  "homepage": "https://QuocHuy-13.github.io/todo-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
